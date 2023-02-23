@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 
 //greatest common divisor alogorithm
 // status- working fine
@@ -20,4 +20,4 @@ int main() {
 	std::cout << "\n new n1= " << n1 << "\n New n2= " << n2;
 	std::cout << "\n ";
 	return 0;
-}
+}*/

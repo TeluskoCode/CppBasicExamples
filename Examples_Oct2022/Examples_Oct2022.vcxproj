@@ -129,10 +129,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.gcd.cpp" />
+    <ClCompile Include="ArrayasIndexPointer.cpp" />
+    <ClCompile Include="FunctionWithReturnTypeandArgument.cpp" />
     <ClCompile Include="logicEqn.cpp" />
     <ClCompile Include="MathOperation_00.cpp" />
+    <ClCompile Include="PointersSWAP.cpp" />
     <ClCompile Include="StaticCircularQueue.cpp" />
     <ClCompile Include="StaticStack.cpp" />
+    <ClCompile Include="StringtoInteger_conversion_12102022_03.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CppBasicExamples.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
